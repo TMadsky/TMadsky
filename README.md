@@ -7,8 +7,8 @@
 ---
 
 ### 🚀 What I'm Doing
-- 🔭 Exploring **Software Development & Game Tech**
-- 🌱 Learning **Python, C, C++, C#, Web Technologies & Game Engines**
+- 🔭 Exploring **3D Design Software & Game Development **
+- 🌱 Learning **Blender Python, C, C++, C#, Game Engines**
 - 🎯 Focused on writing clean, efficient, and understandable code
 
 ---
