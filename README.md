@@ -36,7 +36,15 @@ _(More coming soon 🚧)_
 ### 📈 GitHub Activity
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TMadsky&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="TMadsky's GitHub stats" />
+  
+  <br/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TMadsky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+
+  <br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TMadsky&theme=tokyonight&hide_border=true" alt="TMadsky's GitHub streak" />
 </p>
 
 ---
