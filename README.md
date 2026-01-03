@@ -13,13 +13,14 @@ Currently focused on learning, improving.
 ---
 
 ### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-2F3B52?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-2F3B52?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-2F3B52?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-2F3B52?style=flat&logo=csharp&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-2F3B52?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2F3B52?style=flat&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2F3B52?style=flat&logo=git&logoColor=white)
+
 
 ---
 
