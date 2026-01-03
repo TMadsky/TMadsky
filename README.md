@@ -27,9 +27,9 @@
 
 ---
 
-### 🧩 Philosophy
-> Build simply. Learn deeply. Improve continuously.
-
+### 📌 Featured Projects
+- 🔹 **I don't have project for now** –
+_(More coming soon 🚧)_
 ---
 
 ### 📈 GitHub Activity
