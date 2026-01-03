@@ -31,7 +31,7 @@ _(More coming soon 🚧)_
 ---
 
 ### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=TMadsky&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TMadsky&show_icons=true&theme=tokyonight)
 
 
 ---
