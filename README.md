@@ -8,7 +8,7 @@ Currently focused on learning, improving.
 - 💻 Interested in **Software Development & Game Tech**
 - 🚀 Learning **Python, C, C#, C++, Web Technologies, and Game Engines**
 - 🎯 Goal: Build useful, clean, and performant projects
-- 🧩 I enjoy solving problems and understanding how things work
+- 🧩 I enjoy playing video games(i hate web tech)
 
 ---
 
