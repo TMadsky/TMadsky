@@ -33,11 +33,9 @@
 _(More coming soon 🚧)_
 ---
 
-### 📈 GitHub Activity
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TMadsky&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TMadsky&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=TMadsky&theme=tokyonight&hide_border=true)
 
 
 ---
