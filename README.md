@@ -33,8 +33,14 @@
 _(More coming soon 🚧)_
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TMadsky&show_icons=true&theme=tokyonight&hide_border=true)
+### 📈 GitHub Activity
+<p>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=TMadsky&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TMadsky&theme=tokyonight&hide_border=true" />
+</p>
 
 
 
