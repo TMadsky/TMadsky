@@ -23,7 +23,7 @@ Currently focused on learning, improving.
 
 ---
 
-### 📌 Featured Projects
+### 📌 Projects
 - 🔹 **I don't have project for now** – 
 
 _(More coming soon 🚧)_
