@@ -31,8 +31,20 @@
 
 ---
 
-### 📊 GitHub Stats 
-![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=TMadsky&show_icons=true&theme=tokyonight)
+### 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=TMadsky&show_icons=true&theme=tokyonight&hide_border=true" alt="TMadsky's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TMadsky&theme=tokyonight&hide_border=true" alt="TMadsky's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TMadsky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
 ---
 
 ### 📬 Reach Me
