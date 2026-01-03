@@ -19,9 +19,10 @@
   <img src="https://img.shields.io/badge/C-2F3B52?style=flat&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-2F3B52?style=flat&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-2F3B52?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-2F3B52?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-2F3B52?style=flat&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-2F3B52?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-2F3B52?style=flat&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unity-2F3B52?style=flat&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-2F3B52?style=flat&logo=unrealengine&logoColor=white" />
 </p>
 
 ---
