@@ -9,7 +9,7 @@
 ### 🚀 What I'm Doing
 - 🔭 Exploring **3D Design Software & Game Development**
 - 🌱 Learning **Blender Python, C, C++, C#, Game Engines**
-- 🎯 Focused on writing clean, efficient, and understandable code
+- 🎯 Focused on learning new things
 
 ---
 
