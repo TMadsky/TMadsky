@@ -40,10 +40,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TMadsky&theme=tokyonight&hide_border=true" alt="TMadsky's GitHub streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=TMadsky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
